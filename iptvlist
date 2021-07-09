@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTGRP:Group_1
+
+#EXTINF:-1 tvg-name="ACV (New!)" ,ACV (New!)
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ACV Medley",ACV Medley
+https://acv.asianetmobiletvplus.com/webstreams/95ef9473f8e0c8898d58b16300dbb7b5/playlist.m3u8
+#EXTINF:-1 tvg-name=Pulari ,RoseBowl
+http://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Pulari TV" ,Pulari TV
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1 tvg-name="Mazhavil Manorama HD" ,Mazhavil Manorama HD
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+
+#EXTGRP:Group_2
+#EXTINF:-1 tvg-name=Victers ,Victers
+http://live.wmncdn.net/victers/live.stream/index.m3u8
+#EXTINF:-1 tvg-name=Flowers ,Flowers
+https://acv.asianetmobiletvplus.com/channels/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_hls/flowers_uysmumvfohkcojkjthtovqcqdsddxefo_profile1.m3u8
+#EXTINF:-1 tvg-name=Kaumudy ,Kaumudy
+http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+
+#EXTGRP:Group_3
+#EXTINF:-1 tvg-name="Asianet News (New!)" ,Asianet News (New!)
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 tvg-name="24 News Malayalam (New!)" ,24 News Malayalam (New!)
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 tvg-name="Manorama News (New!)" ,Manorama News (New!)
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 tvg-name="Mathrubhumi News (New!)" ,Mathrubhumi News (New!)
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 tvg-name="Kairali News (New!)" ,Kairali News (New!)
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1 tvg-name="Jaihind TV (New!)" ,Jaihind TV (New!)
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 tvg-name="Flowers TV (New!)" ,Flowers TV (New!)
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 tvg-name="Amrita TV (New!)" ,Amrita TV (New!)
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 tvg-name="DD Malayalam (New!)" ,DD Malayalam (New!)
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 tvg-name="Jeevan TV (New!)" ,Jeevan TV (New!)
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 tvg-name="Kairali TV (New!)" ,Kairali TV (New!)
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 tvg-name="Kairali We (New!)" ,Kairali We (New!)
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 tvg-name="Kappa TV (New!)" ,Kappa TV (New!)
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 tvg-name="Mangalam TV (New!)" ,Mangalam TV (New!)
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 tvg-name="Reporter TV (Opt-1) (New!)" ,Reporter TV (Opt-1) (New!)
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+
+#EXTGRP:Group_4
+#EXTINF:-1 tvg-name=Boomerang ,Boomerang
+http://edge04.beetv.kz/btv/SWM/Boomerang/Boomerang_576p_2000kbps.m3u8
+#EXTINF:-1 tvg-name="ZEE Action" ,ZEE Action
+http://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="ZEE Cinema" ,ZEE Cinema
+http://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" ,Animal Planet
+http://edge04.beetv.kz/btv/SWM/Animal_planet/Animal_planet_576p_2000kbps.m3u8
+#EXTINF:-1 tvg-name="ZEE Bollywood" ,ZEE Bollywood
+http://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="ZEE Cafe" ,ZEE Cafe
+http://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ZEE Cinema UK" ,ZEE Cinema UK
+http://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ZEE Cinema USA" ,ZEE Cinema USA
+http://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="ZEE Magic" ,ZEE Magic
+http://y5w8j4a9.ssl.hwcdn.net/magic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ZEE Mundo" ,ZEE Mundo
+http://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="ZEE TV USA" ,ZEE TV USA
+http://y5w8j4a9.ssl.hwcdn.net/ztvhdusa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Weather Nation" ,Weather Nation
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Stingray Naturescape" ,Stingray Naturescape
+http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" ,Love Nature HD
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Italia" ,Cartoon Network Italia
+http://flusonic-1.platinum-tv.com:80/cartoon_network/index.m3u8
+
